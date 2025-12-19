@@ -1,4 +1,4 @@
-# 📸 KameraKu - Sistem Informasi Penyewaan Kamera
+# 📸 KameraKu - Website Penyewaan Kamera
 
 **KameraKu** adalah aplikasi berbasis web yang dibangun menggunakan **Laravel 6** untuk membantu pengelolaan bisnis penyewaan kamera. Aplikasi ini menangani manajemen stok barang, pendataan penyewa, transaksi peminjaman, hingga pengembalian unit.
 
